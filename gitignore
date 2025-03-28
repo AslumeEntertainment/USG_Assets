@@ -1,0 +1,4 @@
+# ignoring autosaves
+*_autosave_*
+# ignoring substance painter files
+*.spp
